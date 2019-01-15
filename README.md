@@ -4,9 +4,18 @@ CLI to pixelate images given inputted pixel dimensions
 # Libraries
 
 <b>Pillow</b>
+<br />
 Available <a href="https://pillow.readthedocs.io/en/stable/">here</a>
-Install via pip: <command>pip install pillow</command>
+<br />
+Install via pip: 
+```
+pip install pillow
+```
 
 <b>Numpy</b>
-Install via pip: <command>pip install numpy</command>
+<br />
+Install via pip:
+```
+pip install numpy
+```
 
